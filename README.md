@@ -6,3 +6,4 @@ A Flutter app for organizing and enhancing pitching.
 3. Install
 # Link to Application
 https://www.mediafire.com/file/5et3hy46n923xmb/Pitcheck.apk/file
+git tag gdsc-ph-hackfest-2022
